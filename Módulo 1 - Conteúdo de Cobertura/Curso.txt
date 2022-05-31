@@ -1,0 +1,4 @@
+- Boas Vindas ao Santander Bootcamp Fullstack Developer
+- Introdução à programação e pensamento computacional
+-Introdução ao Git e GitHub
+- Desafio de projeto: Criando seu primeiro repositório no GitHub para compartilhar seu progresso.
